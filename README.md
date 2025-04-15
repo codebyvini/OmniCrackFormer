@@ -1,3 +1,1 @@
 # OmniCrackFormers
-
-The code will be released after the paper is acceptance.
