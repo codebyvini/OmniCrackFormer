@@ -1,3 +1,3 @@
 # OmniCrackFormers
 
-This is done by Jagadeesh Rachapudi
+The code will be released after the paper is accepted.
